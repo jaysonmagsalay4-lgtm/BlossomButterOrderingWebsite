@@ -1,0 +1,175 @@
+{
+  "slug": "products",
+  "returning": true,
+  "documents": [
+    {
+      "data": {
+        "name": "Butter croissant",
+        "slug": "butter-croissant",
+        "description": "Golden layers, cultured French butter.",
+        "price": 4.5,
+        "category": "pastries",
+        "image": "48d56331-fc52-4141-8b9f-bff1654dc935",
+        "available": true,
+        "featured": true,
+        "sortOrder": 1
+      }
+    },
+    {
+      "data": {
+        "name": "Blueberry custard tart",
+        "slug": "blueberry-custard-tart",
+        "description": "Vanilla custard, fresh blueberries.",
+        "price": 5.5,
+        "category": "desserts",
+        "image": "141ccb85-a31b-475c-a994-61c69339b883",
+        "available": true,
+        "featured": true,
+        "sortOrder": 2
+      }
+    },
+    {
+      "data": {
+        "name": "Chocolate almond croissant",
+        "slug": "chocolate-almond-croissant",
+        "description": "Dark chocolate and toasted almonds.",
+        "price": 5.75,
+        "category": "pastries",
+        "image": "e86afc8b-6e17-4408-ba34-9ade74fdb667",
+        "available": true,
+        "featured": true,
+        "sortOrder": 3
+      }
+    },
+    {
+      "data": {
+        "name": "Caramel custard pastry",
+        "slug": "caramel-custard-pastry",
+        "description": "Flaky pastry with a silky caramel center.",
+        "price": 5,
+        "category": "pastries",
+        "image": "0e0c0fea-df56-4091-bde3-93aa7a718bd0",
+        "available": true,
+        "featured": true,
+        "sortOrder": 4
+      }
+    },
+    {
+      "data": {
+        "name": "Chocolate chunk cookie",
+        "slug": "chocolate-chunk-cookie",
+        "description": "Soft center, crisp edges, a pinch of salt.",
+        "price": 3.75,
+        "category": "cookies",
+        "image": "0c3893cc-7600-48b0-adae-9e949dbfeb72",
+        "available": true,
+        "featured": true,
+        "sortOrder": 5
+      }
+    },
+    {
+      "data": {
+        "name": "Vanilla cream danish",
+        "slug": "vanilla-cream-danish",
+        "description": "Whipped vanilla cream on buttery layers.",
+        "price": 5.25,
+        "category": "pastries",
+        "image": "c43d1d2c-f5b4-4ed1-9475-0f5582d40bea",
+        "available": true,
+        "featured": true,
+        "sortOrder": 6
+      }
+    },
+    {
+      "data": {
+        "name": "Ensaymada with a twist",
+        "slug": "ensaymada-with-a-twist",
+        "description": "Traditional Ensaymada with a twist!",
+        "price": 4.95,
+        "category": "pastries",
+        "image": "8e07ea45-60ce-4903-9426-73ce142841fd",
+        "available": true,
+        "featured": false,
+        "sortOrder": 7
+      }
+    },
+    {
+      "data": {
+        "name": "Matcha Cookies",
+        "slug": "matcha-cookies",
+        "description": "Earthy matcha with creamy white chocolate.",
+        "price": 4.25,
+        "category": "cookies",
+        "image": "e51aa8c6-e862-41c9-865d-57092c9c8d29",
+        "available": true,
+        "featured": false,
+        "sortOrder": 8
+      }
+    },
+    {
+      "data": {
+        "name": "Coconut Cookies",
+        "slug": "coconut-cookies",
+        "description": "Toasted coconut with a chewy golden center.",
+        "price": 4,
+        "category": "cookies",
+        "image": "d8318269-8c74-405f-8c18-0ba2cc9e5d57",
+        "available": true,
+        "featured": false,
+        "sortOrder": 9
+      }
+    },
+    {
+      "data": {
+        "name": "Marshmallow Hot Cocoa Cookies",
+        "slug": "marshmallow-hot-cocoa-cookies",
+        "description": "Cookies with marshmallows.",
+        "price": 4.5,
+        "category": "cookies",
+        "image": "b56f7e99-61cc-4d7a-92e0-4792e0e5e10b",
+        "available": true,
+        "featured": false,
+        "sortOrder": 10
+      }
+    },
+    {
+      "data": {
+        "name": "Oreo Cookies",
+        "slug": "oreo-cookies",
+        "description": "Cookies-and-cream goodness in every bite.",
+        "price": 4.25,
+        "category": "cookies",
+        "image": "57d5f644-8550-42d0-80d2-bff1a46c15fd",
+        "available": true,
+        "featured": false,
+        "sortOrder": 11
+      }
+    },
+    {
+      "data": {
+        "name": "Chocolate puffs",
+        "slug": "chocolate-puffs",
+        "description": "Airy choux puffs with dark chocolate cream.",
+        "price": 5.5,
+        "category": "desserts",
+        "image": "ba65f59c-ad45-4728-9c11-67e73096afdf",
+        "available": true,
+        "featured": false,
+        "sortOrder": 12
+      }
+    },
+    {
+      "data": {
+        "name": "Cream puffs",
+        "slug": "cream-puffs",
+        "description": "Light choux pastry with vanilla bean cream.",
+        "price": 5.25,
+        "category": "desserts",
+        "image": "7cd827c5-ba67-4698-83bc-6482b8b0c0e9",
+        "available": true,
+        "featured": false,
+        "sortOrder": 13
+      }
+    }
+  ]
+}
